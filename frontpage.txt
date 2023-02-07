@@ -1,0 +1,39 @@
+<doctype html!>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+body {
+background-image: url("https://www.outthere.travel/wp-content/uploads/2020/12/Taj-Mahal-Palace-1.jpg");
+   
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+
+       
+
+
+</style>
+<style>
+h1{
+background-color:red;
+}
+</style>
+<title>HOTEL MANAGEMENT</TITLE>
+</head>
+<body>
+
+               
+           
+    <a href="C:\Users\mansoorsaharbanu\Downloads\login.html">---------login/signin..........</a>......<a href="C:\Users\mansoorsaharbanu\Downloads\roombooking.html">------Roombooking......</a><a href="C:\Users\mansoorsaharbanu\Downloads\features.html">----------features.......</a><a href="C:\Users\mansoorsaharbanu\Downloads\services.html">--------services.........</a>
+<h1>TAJ HOTEL</H1>
+</body>
+</html>
+

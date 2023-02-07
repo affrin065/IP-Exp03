@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+body {
+background-image: url("");
+   
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+<title>ROOM BOOKING</title>
+<style>
+
+table{
+  border:1px solid black;
+  border-collpase:collapse;
+ 
+}
+</style>
+</head>
+<body>
+<form action="action_page.php" style="border:1px solid black">
+  <div class="container">
+<ol><h2 style="color:green;">TAJHOTEL  ROOM BOOKING FORM:</h2></ol>  
+<br>
+ <label for="One">NAME : </label> <input type="text" id="One"
+name="Name"><br><br>
+<label for="age">AGE : </label> <input type="text" id="age"
+name="Name"><br><br>
+<p>WHICH TYPE OF ROOM YOU WANT?</p>
+ <input type="radio" id="Four" name="ChooseOne" value="AC"><label
+for="Four">AC </label> <input type="radio" id="Four1" name="ChooseOne"
+value="NON-AC"><label for="Four1">NON-AC</label>
+ <p>Which Room(s) Are You Interested in?</p>
+ <div><label>DEPT </label>
+<select>
+<option value="CAPRI">CAPRI</option>
+<option value="SORRENTO">SORRENTO</option>
+<option value="VENETIAN">VENETIAN</option>
+</select>
+ </div><br>
+<label for="One">ARRIVAL DATE :</label> <input type="text" id="One"
+name="Name"><br><br>
+ <label for="One">PHONE NO : </label> <input type="text" id="One"
+name="Name"><br><br>
+ <label for="One">EMAIL_ID : </label> <input type="text" id="One"
+name="Name"><br>
+<p>ADDRESS:</p>
+ <div>
+<textarea></textarea>
+ </div><br>
+ <input type="checkbox" id="Fiv1e" name="ChooseMany" value="** If you are not a registered user, you can Register Here.."><label for="Fiv1e">** If you are not a registered user, you can Register Here..</label>
+ <p>TAJHOTEL Mail : <a href="mailto:loginmail@gmail.com" style="color: blue">
+tajlogin@gmail.com</a></p>
+ <input type="submit" value="submit" formtarget="_blank"> <input
+type="submit" value="clear" formtarget="_blank"><br><br>
+ <a href="mailto:ammu@gmail.com" style="color:blueviolet">Back to mail page</a>
+</body>
+</html>

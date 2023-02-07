@@ -1,0 +1,38 @@
+doctype html!>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+h1{
+background-color:green;
+}
+body {
+background-image: url("");    
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+</head>
+<body bgcolor="">
+<body>
+<h1>FEATURES OF TAJHOTEL</h1>
+<a href="" position="right">
+ <img src="C:\Users\mansoorsaharbanu\Downloads\img1.jfif" alt="not available" width="400" height="250" target="_parent">
+</a><p> In 1974, the group opened India's first international five-star deluxe beach resort,<br> the Fort Aguada Beach Resort in Goa. In 1970s, the Taj Group also began its business in metropolitan hotels, opening the five-star deluxe hotel, <br>Taj Coromandel in Chennai, in 1974, acquiring an equity interest and operating contract for the Taj President (now Vivanta by Taj – President), a business hotel in Mumbai, in 1977, and also opening the Taj Mahal Hotel in Delhi in 1978<br>.
+   
+
+The group has been converting royal palaces in India into luxury hotels since the 1970s.<br> The first palace to be converted into a Taj luxury hotel was the Lake Palace in Udaipur, in 1971.[10] Other examples include the Rambagh Palace in Jaipur, Umaid Bhawan Palace in Jodhpur, Falaknuma Palace in Hyderabad and Nadesar Palace in Varanasi.<br>
+
+
+Taj Fort Aguada Beach Resort Hotel in Goa.<br>
+In 1980, the Taj Group opened its first hotel outside India, the Taj Sheba Hotel in Sana'a, in Yemen and in the late 1980s, acquired interests in the St. James' Court Hotel (now comprising Taj 51 Buckingham Gate Suites and Residences and St. James' Court, A Taj Hotel) in London. In 1984, the Taj Group acquired, under a license agreement, each of the Taj West End in Bangalore, Taj Connemara, in Chennai and Savoy Hotel in Ooty. The five-star deluxe hotel, Taj Bengal in Kolkata, was opened in the year 1989, and with this, the Taj Group became the only hotel chain in India with a presence in the six major metropolitan cities of India, namely Mumbai, Delhi, Kolkata, Bangalore, Hyderabad, and Chennai.
+</p>
+</body>
+</html>
